@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ASIHttpTest */ = {
+		activeExec = 0;
+		executables = (
+			EC2F04FA178D369A00744EAD /* ASIHttpTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ASIHttpTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 604}}";
+			sepNavSelRange = "{287, 23}";
+			sepNavVisRange = "{0, 323}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ASIHttpTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 3792}}";
+			sepNavSelRange = "{1896, 210}";
+			sepNavVisRange = "{1711, 498}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC2F04FA178D369A00744EAD /* ASIHttpTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ASIHttpTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ASIHttpTest */,
+		);
+		codeSenseManager = EC2F0504178D369E00744EAD /* Code sense */;
+		executables = (
+			EC2F04FA178D369A00744EAD /* ASIHttpTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					520,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					497,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 395130522;
+			PBXWorkspaceStateSaveDate = 395130522;
+		};
+		perUserProjectItems = {
+			EC2F056E178D3F4200744EAD /* PBXTextBookmark */ = EC2F056E178D3F4200744EAD /* PBXTextBookmark */;
+			EC2F0586178D41C300744EAD /* PBXTextBookmark */ = EC2F0586178D41C300744EAD /* PBXTextBookmark */;
+			EC2F0587178D41C300744EAD /* PBXTextBookmark */ = EC2F0587178D41C300744EAD /* PBXTextBookmark */;
+			EC2F0588178D41C300744EAD /* PBXTextBookmark */ = EC2F0588178D41C300744EAD /* PBXTextBookmark */;
+			EC2F058A178D41C300744EAD /* PBXTextBookmark */ = EC2F058A178D41C300744EAD /* PBXTextBookmark */;
+			EC2F058B178D41C300744EAD /* PBXTextBookmark */ = EC2F058B178D41C300744EAD /* PBXTextBookmark */;
+			EC2F05A6178D447800744EAD /* PBXTextBookmark */ = EC2F05A6178D447800744EAD /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC2F0503178D369E00744EAD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EC2F04FA178D369A00744EAD /* ASIHttpTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ASIHttpTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EC2F0503178D369E00744EAD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC2F0504178D369E00744EAD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC2F0510178D36DD00744EAD /* ASIFormDataRequest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 2275}}";
+			sepNavSelRange = "{462, 14}";
+			sepNavVisRange = "{140, 526}";
+		};
+	};
+	EC2F0511178D36DD00744EAD /* ASIFormDataRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 9375}}";
+			sepNavSelRange = "{664, 18}";
+			sepNavVisRange = "{414, 609}";
+		};
+	};
+	EC2F0513178D36DD00744EAD /* ASIHTTPRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 129850}}";
+			sepNavSelRange = "{25927, 4}";
+			sepNavVisRange = "{25635, 540}";
+		};
+	};
+	EC2F056E178D3F4200744EAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC2F0513178D36DD00744EAD /* ASIHTTPRequest.m */;
+		name = "ASIHTTPRequest.m: 791";
+		rLen = 4;
+		rLoc = 25927;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 25635;
+	};
+	EC2F0586178D41C300744EAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC2F0511178D36DD00744EAD /* ASIFormDataRequest.m */;
+		name = "ASIFormDataRequest.m: 28";
+		rLen = 18;
+		rLoc = 664;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 414;
+	};
+	EC2F0587178D41C300744EAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC2F0510178D36DD00744EAD /* ASIFormDataRequest.h */;
+		name = "ASIFormDataRequest.h: 19";
+		rLen = 14;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 526;
+		vrLoc = 140;
+	};
+	EC2F0588178D41C300744EAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC2F0589178D41C300744EAD /* NSURLRequest.h */;
+		name = "NSURLRequest.h: 312";
+		rLen = 12;
+		rLoc = 12720;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 12245;
+	};
+	EC2F0589178D41C300744EAD /* NSURLRequest.h */ = {
+		isa = PBXFileReference;
+		name = NSURLRequest.h;
+		path = /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLRequest.h;
+		sourceTree = "<absolute>";
+	};
+	EC2F058A178D41C300744EAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ASIHttpTestViewController.h */;
+		name = "ASIHttpTestViewController.h: 13";
+		rLen = 23;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 323;
+		vrLoc = 0;
+	};
+	EC2F058B178D41C300744EAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ASIHttpTestViewController.m */;
+		name = "ASIHttpTestViewController.m: 36";
+		rLen = 0;
+		rLoc = 988;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 655;
+	};
+	EC2F05A6178D447800744EAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ASIHttpTestViewController.m */;
+		name = "ASIHttpTestViewController.m: 73";
+		rLen = 210;
+		rLoc = 1896;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 1711;
+	};
+}
